@@ -1,0 +1,7 @@
+F:\Dot_net\Array_Classes\Array_Classes\obj\Debug\Array_Classes.csproj.AssemblyReference.cache
+F:\Dot_net\Array_Classes\Array_Classes\obj\Debug\Array_Classes.csproj.CoreCompileInputs.cache
+F:\Dot_net\Array_Classes\Array_Classes\bin\Debug\Array_Classes.exe.config
+F:\Dot_net\Array_Classes\Array_Classes\bin\Debug\Array_Classes.exe
+F:\Dot_net\Array_Classes\Array_Classes\bin\Debug\Array_Classes.pdb
+F:\Dot_net\Array_Classes\Array_Classes\obj\Debug\Array_Classes.exe
+F:\Dot_net\Array_Classes\Array_Classes\obj\Debug\Array_Classes.pdb
